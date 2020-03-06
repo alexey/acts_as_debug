@@ -1,0 +1,25 @@
+ActAsDebug
+==========
+
+Version [0.0.1] 
+Usage are very simple, just write:
+    act_as_debug <VARIABLE>
+can use any variable type,
+at this level this is only use.
+
+ToDo: 
+    - make options that come with variable, 
+    - make several variables output simul.,
+    - make independent logfile,
+    
+
+    
+
+-------------------------
+Version History:
+ 14 Mar, 2007
+    + Inital release 0.0.1
+  ---------------------
+  
+  
+alex.creopolis@gmail.com
